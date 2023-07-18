@@ -1,3 +1,9 @@
+body{
+    background-color: #B2BEB5;
+}
+#date{
+    background-color: #FF6347;
+}
 input[type="date"]::-webkit-calendar-picker-indicator {
     background: transparent;
     bottom: 0;
