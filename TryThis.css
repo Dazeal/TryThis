@@ -1,7 +1,7 @@
 body{
     background-color: #B2BEB5;
 }
-#date{
+button{
     background-color: #FF6347;
 }
 input[type="date"]::-webkit-calendar-picker-indicator {
