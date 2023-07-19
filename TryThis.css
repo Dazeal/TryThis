@@ -1,7 +1,8 @@
 body{
     background-color: #B2BEB5;
+    justify-content: center;
 }
-.calcu{
+#calcu{
     background-color: #FF6347;
 }
 #date{
