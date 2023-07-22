@@ -12,7 +12,7 @@ body{
     flex-direction: row;
     justify-content: center;
     border-radius: 5px;
-    Space-between: 10px;
+    Space-between: 10%;
     Padding: 5px;
 }
 #calcu{
