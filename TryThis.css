@@ -34,11 +34,19 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     Gap: 20px;
 }
 .flex-con2{
-    Background-color: white;
     display: flex;
     flex-direction: row;
     border-radius: 5px;
     justify-content: center;
     margin-top: 10%;
     gap: 10px;
+}
+#6yr{
+    Background-color: white;
+}
+#11m{
+    Background-color: white;
+}
+#32d{
+    Background-color: white;
 }
