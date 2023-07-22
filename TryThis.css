@@ -3,16 +3,16 @@ body{
 }
 .wrapper{
     Background-color: gray;
-    Height: 50px;
+    Height: 30px;
 }
 .flex-con1{
     background-color: white;
-    margin-top: 50px;
+    margin-top: 70px;
     display: flex;
     flex-direction: row;
     justify-content: center;
     border-radius: 5px;
-    gap: 10px;
+    gap: 20px;
     Padding: 5px;
 }
 #calcu{
@@ -48,11 +48,14 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 #6yr{
     Background-color: white;
+    Border-radius: 2px;
 }
 #11m{
     Background-color: white;
     Padding: 1px 0px 1px 0px;
+    Border-radius: 2px;
 }
 #32d{
     Background-color: white;
+Border-radius: 2px;
 }
