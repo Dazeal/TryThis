@@ -13,6 +13,7 @@ body{
     justify-content: center;
     border-radius: 5px;
     gap: 10px;
+    Padding: 5px;
 }
 #calcu{
     background-color: #FF6347;
