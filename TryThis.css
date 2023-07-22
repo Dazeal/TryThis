@@ -17,10 +17,14 @@ body{
 }
 #calcu{
     background-color: #FF6347;
+    Text-align: center;
+    Border-radius:1px;
 }
 #date{
     Background-color: white;
-   }
+    Text-align: center;
+    Border-radius:1px;
+}
 input[type="date"]::-webkit-calendar-picker-indicator {
     background: transparent;
     bottom: 0;
