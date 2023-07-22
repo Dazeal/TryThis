@@ -45,7 +45,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     justify-content: center;
     margin-top: 10%;
     Justify-content: space-evenly;
-    Gap: 20px;
+    /* Gap: 20px; */
 }
 #6yr{
     Background-color: white;
