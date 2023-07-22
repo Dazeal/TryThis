@@ -12,8 +12,7 @@ body{
     flex-direction: row;
     justify-content: center;
     border-radius: 5px;
-    Space-between: 10%;
-    Padding: 5px;
+    Justify-content: space-evenly;
 }
 #calcu{
     background-color: #FF6347;
@@ -43,7 +42,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     border-radius: 5px;
     justify-content: center;
     margin-top: 10%;
-    gap: 20px;
+    Justify-content: space-evenly;
 }
 #6yr{
     Background-color: white;
