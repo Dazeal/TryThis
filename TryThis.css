@@ -3,7 +3,7 @@ body{
 }
 .wrapper{
     Background-color: gray;
-    Width: 500px;
+    Height: 100px;
 }
 .flex-con1{
     background-color: white;
