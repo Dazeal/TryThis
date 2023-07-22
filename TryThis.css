@@ -4,6 +4,7 @@ body{
 .wrapper{
     Background-color: gray;
     Height: 30px;
+    Justify-content: center;
 }
 .flex-con1{
     background-color: white;
