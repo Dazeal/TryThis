@@ -12,18 +12,18 @@ body{
     flex-direction: row;
     justify-content: center;
     border-radius: 5px;
-    gap: 20px;
+    gap: 30px;
     Padding: 5px;
 }
 #calcu{
     background-color: #FF6347;
     Text-align: center;
-    Border-radius:1px;
+    Border-radius:2px;
 }
 #date{
     Background-color: white;
     Text-align: center;
-    Border-radius:1px;
+    Border-radius:2px;
 }
 input[type="date"]::-webkit-calendar-picker-indicator {
     background: transparent;
@@ -36,7 +36,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     right: 0;
     top: 0;
     width: auto;
-    Gap: 20px;
 }
 .flex-con2{
     display: flex;
@@ -44,7 +43,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     border-radius: 5px;
     justify-content: center;
     margin-top: 10%;
-    gap: 10px;
+    gap: 20px;
 }
 #6yr{
     Background-color: white;
