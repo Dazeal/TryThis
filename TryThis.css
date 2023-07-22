@@ -1,6 +1,10 @@
 body{
     background-color: gray;
 }
+.wrapper{
+    Background-color: gray;
+    Width: 500px;
+}
 .flex-con1{
     background-color: white;
     margin-top: 50px;
@@ -27,6 +31,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     right: 0;
     top: 0;
     width: auto;
+    Gap: 20px;
 }
 .flex-con2{
     Background-color: white;
