@@ -47,16 +47,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     Justify-content: space-evenly;
     /* Gap: 20px; */
 }
-#6yr{
-    Background-color: white;
-    Border-radius: 2px;
-}
-#11m{
-    Background-color: white;
-    Padding: 1px 0px 1px 0px;
-    Border-radius: 2px;
-}
-#32d{
-    Background-color: white;
-Border-radius: 2px;
+.flex-con2 .6yrs{
+    Padding: 5px;
 }
