@@ -47,9 +47,12 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     Justify-content: space-evenly;
     /* Gap: 20px; */
 }
-.flex-con2 .6yrs{
+.6yrs{
     Padding: 5px;
 }
-.flex-con2 .11m{
+.11m{
+    Padding: 5px;
+}
+.32D{
     Padding: 5px;
 }
