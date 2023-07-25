@@ -13,7 +13,7 @@ body{
     flex-direction: row;
     justify-content: center;
     border-radius: 5px;
-    Justify-content: space-evenly;
+    Justify-content: space-around;
     Padding: 30px
 }
 #calcu{
