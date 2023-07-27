@@ -13,7 +13,7 @@ body{
     display: flex;
     flex-direction: row;
     border-radius: 5px;
-    Justify-content: space-around;
+    Justify-content: space-between;
     Padding: 30px
 }
 #calcu{
@@ -25,7 +25,6 @@ body{
     Background-color: white;
     Text-align: center;
     Border-radius:2px;
-    Padding: 0 10px;
 }
 input[type="date"]::-webkit-calendar-picker-indicator {
     background: transparent;
