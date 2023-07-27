@@ -14,7 +14,7 @@ body{
     flex-direction: row;
     border-radius: 5px;
     Justify-content: space-between;
-   /* Padding: 30px; */
+    Padding: 30px;
 }
 #calcu{
     background-color: #FF6347;
