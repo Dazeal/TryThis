@@ -25,7 +25,7 @@ body{
     Background-color: white;
     Text-align: center;
     Border-radius:2px;
-    Gap: 10px;
+    Padding: 0 10px;
 }
 input[type="date"]::-webkit-calendar-picker-indicator {
     background: transparent;
